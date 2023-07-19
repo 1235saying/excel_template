@@ -1,3 +1,6 @@
+# yaml 配置文件可能用的更加广泛
+
+
 import yaml
 
 with open("hello.yaml", "r") as f:
