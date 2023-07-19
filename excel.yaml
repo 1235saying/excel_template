@@ -1,0 +1,15 @@
+# 源
+file_name : "random_data.xlsx"
+sheet_name: ""
+header    : 0
+usecols   : ""
+# writer_mode 
+#   a: 主要为了追加数据 需要表格已经存在
+#   w: 写入新的表格中
+writer_mode : "w"
+
+
+# task
+task_file_name  : ""
+task_sheet_name : ""
+
